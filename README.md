@@ -3,7 +3,7 @@ This is the course project of the Getting and Cleaning Data course. The run_anal
     
 	1. Takes all the data from "UCI HAR Dataset" folder in your working directory
 	
-    	2. Creates two data frames called "test" and "train"
+    2. Creates two data frames called "test" and "train"
     
 	3. Merges the "train" and the "test" data frames to create one data frame called "data".
     
